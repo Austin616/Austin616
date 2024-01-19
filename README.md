@@ -1,4 +1,4 @@
-👋 Hey there, I'm @Austin616, a Back-End software engineer with a passion for Big Data, Machine Learning, and Databases.
+👋 Hey there, I'm @Austin616, aspring Back-End software engineer with a passion for Robotics at UT Austin.
 
 👀 I thrive on building robust back-end systems and harnessing the power of data for intelligent solutions, with a particular focus on databases.
 
