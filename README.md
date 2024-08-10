@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **austintran616@gmail.com**
 
+- 📄 Know about my experiences [https://docs.google.com/document/d/1KSc_h6NeuDyVCA50dHlDWzIEpIsidunZX36nMYCvUsc/pub](https://docs.google.com/document/d/1KSc_h6NeuDyVCA50dHlDWzIEpIsidunZX36nMYCvUsc/pub)
+
 - ⚡ Fun fact **I regularly go to the gym and can bench over 315lbs !**
 
 <h3 align="left">Connect with me:</h3>
