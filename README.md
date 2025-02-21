@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **MongoDB and ML libraries**
 
-- 👨‍💻 All of my projects are available at [https://austintran.netlify.app/](https://austintran.netlify.app/)
+- 👨‍💻 View my personal webiste [https://austintran.me/](https://austintran.me/)
 
-- 💬 Ask me about **Java, JavaScript, Python, C, React, Express, Node**
+- 💬 Ask me about **Java, JavaScript, Python, C, React, Next.js, Node**
 
 - 📫 How to reach me **austintran616@gmail.com**
 
