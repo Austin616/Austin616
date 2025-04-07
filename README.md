@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austin616&label=Profile%20views&color=0e75b6&style=flat" alt="austin616" /> </p>
 
-- 🔭 I’m currently working on **Hook'Em Fitness**
+- 🔭 I’m currently working on [Hook'Em Fitness](https://github.com/Austin616/HookEm-Fitness)
 
 - 🌱 I’m currently learning **React Native, Expo, and SQL Databases**
 
